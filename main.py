@@ -12,7 +12,7 @@ Let's begin!!!
 ---------------------------------------------------
 """)
 
-print("""Rules:\n 1 Read each clue and determine possible solutions 2 Do not cheat\n 3 Cheating is nearly impossible anyway!\n 4 Have fun even if you do not guess the secret word!""")
+print("""Rules:\n 1 Read each clue and determine possible solutions\n 2 Do not cheat\n 3 Cheating is nearly impossible anyway!\n 4 Have fun even if you do not guess the secret word!""")
 
 
 
